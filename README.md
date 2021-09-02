@@ -10,3 +10,4 @@ Thanks for checking out the Easy Bank landing page. This project is built with H
 
 
 ## Screenshots 📷
+![](images/read-me-image.jpg)
