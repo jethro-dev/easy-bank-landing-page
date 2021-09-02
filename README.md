@@ -11,3 +11,6 @@ Thanks for checking out the Easy Bank landing page. This project is built with H
 
 ## Screenshots 📷
 ![](images/read-me-image.jpg)
+
+## Link
+[Click Me!](https://obiito01.github.io/easy-bank-landing-page/)
