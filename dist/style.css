@@ -467,7 +467,7 @@ button:hover,
 .hero__image::after {
   content: "";
   position: absolute;
-  background-image: url(/images/image-mockups.png);
+  background-image: url(/easy-bank-landing-page/images/image-mockups.png);
   background-size: 93%;
   background-repeat: no-repeat;
   background-position: center bottom;
