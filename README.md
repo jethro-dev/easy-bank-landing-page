@@ -1,10 +1,10 @@
 # Easy Bank Landing Page
+## Welcome! 👋
 Easy bank is a responsive website with hover animations.
 
 
-## Welcome! 👋
-
-Thanks for checking out the Easy Bank landing page. This project is built with HTML, SCSS and Javascript.
+## Build with ⚙️
+This project is built with HTML, SCSS and Javascript.
 
 
 
@@ -12,5 +12,5 @@ Thanks for checking out the Easy Bank landing page. This project is built with H
 ## Screenshots 📷
 ![](images/read-me-image.jpg)
 
-## Link
+## Link 🔗
 [Click Me!](https://obiito01.github.io/easy-bank-landing-page/)
